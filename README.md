@@ -2,7 +2,7 @@
 ## BSIT 3B 
 
 ### My Favorite Movie  : *Ready Player One*
-[title](https://www.imdb.com/title/tt1677720/)
+[ReadyPlayerOne](https://www.imdb.com/title/tt1677720/)
 	
 
 ## Why I Love It:
